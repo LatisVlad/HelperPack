@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+		<metadata>
+				<id>HelperPack</id>
+				<version>1.0.1</version>
+				<title>HelperPack Libraries</title>
+				<authors>Vladimir Latis</authors>
+				<owners>Vladimir Latis</owners>
+				<projectUrl>https://github.com/LatisVlad/HelperPack</projectUrl>
+				<requireLicenseAcceptance>false</requireLicenseAcceptance>
+				<description>Collection of common utilities &amp; extension methods, optimized &amp; tested.</description>
+				<summary>HelperPack Libraries</summary>
+				<copyright>Vladimir Latis 2016</copyright>
+		</metadata>
+		<files>
+			<file src="Build\Release\net40\HelperPack.dll" target="lib\net40\HelperPack.dll" />
+			<file src="Build\Release\net40\HelperPack.pdb" target="lib\net40\HelperPack.pdb" />
+			<file src="Build\Release\net40\HelperPack.xml" target="lib\net40\HelperPack.xml" />
+			<file src="Build\Release\net40\HelperPack.ExternalAnnotations.xml" target="lib\net40\HelperPack.ExternalAnnotations.xml" />
+
+			<file src="Build\Release\net45\HelperPack.dll" target="lib\net45\HelperPack.dll" />
+			<file src="Build\Release\net45\HelperPack.pdb" target="lib\net45\HelperPack.pdb" />
+			<file src="Build\Release\net45\HelperPack.xml" target="lib\net45\HelperPack.xml" />
+			<file src="Build\Release\net45\HelperPack.ExternalAnnotations.xml" target="lib\net45\HelperPack.ExternalAnnotations.xml" />
+
+			<file src="Build\Release\net451\HelperPack.dll" target="lib\net451\HelperPack.dll" />
+			<file src="Build\Release\net451\HelperPack.pdb" target="lib\net451\HelperPack.pdb" />
+			<file src="Build\Release\net451\HelperPack.xml" target="lib\net451\HelperPack.xml" />
+			<file src="Build\Release\net451\HelperPack.ExternalAnnotations.xml" target="lib\net451\HelperPack.ExternalAnnotations.xml" />
+			
+			<file src="Build\Release\net461\HelperPack.dll" target="lib\net461\HelperPack.dll" />
+			<file src="Build\Release\net461\HelperPack.pdb" target="lib\net461\HelperPack.pdb" />
+			<file src="Build\Release\net461\HelperPack.xml" target="lib\net461\HelperPack.xml" />
+			<file src="Build\Release\net461\HelperPack.ExternalAnnotations.xml" target="lib\net461\HelperPack.ExternalAnnotations.xml" />
+		</files>
+</package>
